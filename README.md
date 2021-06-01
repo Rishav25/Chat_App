@@ -1,3 +1,7 @@
+Chat-App is a simple chat application which allows two or more users to chat with each other using texts and images. 
+Backend is hosted by chatengine.io and for frontend HTML,CSS and JavaScript has been used along with ReactJS framework.
+Database information is extracted by making API calls to https://api.chatengine.io/chats.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
